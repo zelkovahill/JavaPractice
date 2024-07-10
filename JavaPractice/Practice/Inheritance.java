@@ -99,6 +99,7 @@ abstract class AbstractPlayer extends Player
 
 interface PlayingCard
 {
+    int SPADE =4;
     // 모든 멤버변수는 public static final이어야 하며, 이를 생략할 수 있다
     // 모든 메소드는 public abstract이어야 하며, 이를 생략할 수 있다
     // 단 static 메소드와 default 메소드는 예외이다
